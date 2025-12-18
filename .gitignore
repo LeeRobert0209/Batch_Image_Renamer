@@ -14,3 +14,7 @@ crash.log
 
 # For built boxes
 *.box
+
+__pycache__/
+*.py[cod]
+*$py.class
