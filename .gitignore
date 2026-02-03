@@ -18,3 +18,6 @@ crash.log
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Config
+config.ini
